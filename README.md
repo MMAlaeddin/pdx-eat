@@ -1,6 +1,6 @@
 # pdx-eat
 A web page about my favorite restaurants in Portland, OR.
-# _{Application Name}_
+# _Best PDX Eats_
 
 #### _HTML Inline and Block Elements practice at Epicodus, Jan 6th, 2020._
 
