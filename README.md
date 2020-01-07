@@ -2,9 +2,9 @@
 A web page about my favorite restaurants in Portland, OR.
 # _{Application Name}_
 
-#### HTML Inline and Block Elements practice at Epicodus, Jan 6th, 2020._
+#### _HTML Inline and Block Elements practice at Epicodus, Jan 6th, 2020._
 
-#### By _**Mariam Alaeddin & Alondra (Daisy) Warren**_
+#### By _**Mariam Alaeddin & Alondra Warren**_
 
 ## Description
 
@@ -21,7 +21,7 @@ This is a website that tells people about mine and Daisy's favorite restaurants 
 _No known issues._
 
 ## Mariam Alaeddin
-###maralaeddin@gmail.com
+### maralaeddin@gmail.com
 
 _Please send Mariam an email if there are any issues._
 
